@@ -1,1 +1,4 @@
+first line
 Changes made
+
+my third file got some changes
